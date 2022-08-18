@@ -8,6 +8,7 @@
 # Hello GitHub Actions
 ### Subheading added to readme for testing
 #### sub-subheading
+:fire:
 _Create a GitHub Action and use it in a workflow._
 
 <!--
